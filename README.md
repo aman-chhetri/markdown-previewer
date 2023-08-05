@@ -1,6 +1,6 @@
 # Markdown Previewer
 
-This web application is built using React, Vite, and TypeScript, providing you with an easy and enjoyable way to discover and share inspiring quotes. With just a click of a button, you can refresh your mind with a new random quote and even share your favorite quotes on Twitter.
+This web application is designed to enhance your experience while working with Markdown. By combining React, TypeScript, JavaScript, and Vite, I've created a user-friendly tool that allows you to create, edit, and instantly preview Markdown content in real-time. 
 
 You can access the deployed application [here](https://mark-down-previewer-v1.netlify.app/).
 
